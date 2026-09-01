@@ -1,19 +1,19 @@
 {
   "relays": [
-    "relay-1.datacore-tech.ru",
-    "relay-2.datacore-tech.ru",
-    "relay-3.datacore-tech.ru",
-    "relay-1.looukupf.online:2053",
-    "relay-2.looukupf.online:2053",
-    "relay-3.looukupf.online:2053",
-    "relay-1.rkn.life:2053",
-    "relay-2.rkn.life:2053",
-    "relay-3.rkn.life:2053",
-    "relay-1.foxnezia.com:2053",
-    "relay-2.foxnezia.com:2053",
-    "relay-3.foxnezia.com:2053",
-    "relay-1.foxnezia.me:2053",
-    "relay-2.foxnezia.me:2053",
-    "relay-3.foxnezia.me:2053"
+    "https://relay-1.datacore-tech.ru",
+    "https://relay-2.datacore-tech.ru",
+    "https://relay-3.datacore-tech.ru",
+    "https://relay-1.looukupf.online:2053",
+    "https://relay-2.looukupf.online:2053",
+    "https://relay-3.looukupf.online:2053",
+    "https://relay-1.rkn.life:2053",
+    "https://relay-2.rkn.life:2053",
+    "https://relay-3.rkn.life:2053",
+    "https://relay-1.foxnezia.com:2053",
+    "https://relay-2.foxnezia.com:2053",
+    "https://relay-3.foxnezia.com:2053",
+    "https://relay-1.foxnezia.me:2053",
+    "https://relay-2.foxnezia.me:2053",
+    "https://relay-3.foxnezia.me:2053"
   ]
 }
